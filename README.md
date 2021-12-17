@@ -1,1 +1,1 @@
-"# blog_pessoal" 
+# blog-pessoal-react
