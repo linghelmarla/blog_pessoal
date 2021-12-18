@@ -3,7 +3,7 @@
  }
  
  .imagem{
-     background-image: url(https://i.imgur.com/d5bMdDJ.jpg);
+     background-image: url(https://c.tenor.com/UE83aHvXJsgAAAAC/moana-huh.gif);
      background-repeat: no-repeat;
      width: 100vh;
      min-height: 100vh;
@@ -13,4 +13,7 @@
  
  .text-decorator-none{
      text-decoration: none;
+ }
+ .body {
+    background: linear-gradient(45deg, #00ffff, #ffff);
  }
